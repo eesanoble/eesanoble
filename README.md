@@ -1,6 +1,6 @@
 <h1 align="center">👋🏽 Hi, I'm Eesa!</h1>
 <h3 align="center">A Data Scientist from London</h3>
-Interested in how Data Science can be used in the places we least expect. Digital humanities, Arabic NLP, Python in general. Currently learning more about Neural Networks, SQL, AWS and Big Data in general.
+Interested in how Data Science can be used in the places we least expect. Digital humanities, Arabic NLP, Python in general. Currently learning more about Neural Networks, SQL, AWS and Big Data.
 <h3 align="left">Connect with me:</h3>
 LinkedIn: https://www.linkedin.com/in/eesa-noble/
 <p align="left">
