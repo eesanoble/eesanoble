@@ -1,3 +1,1 @@
-<h1 align="center">Hello, I am Eesa.</h1>
-
 I am a software/AI engineer moonlighting as a digital epigraphist.
